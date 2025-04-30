@@ -19,7 +19,7 @@
 -  Bootstrap 
 - LocalStorage (for saving tasks and theme)
   
- ##Clone the repository
+ ## Clone the repository
 
 ```bash
 git clone https://github.com/amr-mersal/Task-two-Tracker.git
