@@ -23,7 +23,7 @@
 ```bash
 git clone https://github.com/amr-mersal/Task-two-Tracker.git
 cd Task-two-Tracker
-Task-two-Tracker
+npm install
 npm run dev
 ```
 ## DEMO
