@@ -1,8 +1,8 @@
 # Task Tracker App (React)
 
--A simple and responsive task tracking app built with React and React Bootstrap.
--Features task creation, deletion, filtering, and dark/light theme toggle. Tasks are saved in localStorage.
--Currently, two official plugins are available:
+- A simple and responsive task tracking app built with React and React Bootstrap.
+- Features task creation, deletion, filtering, and dark/light theme toggle. Tasks are saved in localStorage.
+- Currently, two official plugins are available:
 
 ##  Features
 
